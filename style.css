@@ -1,0 +1,165 @@
+
+/*
+Section-1
+*/
+.section1{
+    background-color: #333;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+
+}
+.section-1-side-bar{
+    width: 20%;
+    height: 100vh;
+    background-color: rgb(78, 76, 76);
+
+}
+.section-1-side-bar-2{
+    width: 100%;
+    height: 10vh;
+    background-color: darkkhaki;
+    font-size: 30px;
+    
+}
+#align-bar2{
+margin: 12px 17px;
+}
+.icons{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    margin-top: 190px;
+    font-size: 18px;
+    padding: 5px;
+    
+    color: darkkhaki;
+     
+}
+.icon-para{
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+
+/*
+Section-1 end
+*/
+/*
+Section-2
+*/
+.img-1{
+    width: 240%;
+    height: 100vh;
+    margin: 60px;
+    margin-top: 0%;
+    box-shadow: -.4rem -.4rem .4rem .4rem #000,
+                .4rem .3rem .4rem .4rem #000;
+    transition: cubic-bezier(0.215, 0.610, 0.355, 1);
+    }
+.img-sect2{
+
+}
+.img:hover{
+    box-shadow: darkslategray;
+}
+
+.first-txt {
+    position: absolute;
+    bottom: 89px;
+    
+    margin-left: 82px;
+    color: white;
+    
+    
+}
+.first-txt-2{
+    position: absolute;
+    bottom: 80px;
+    color: darkkhaki;
+    
+    margin-left: 140px;
+}
+    
+
+#faceb{
+    position: absolute;
+    bottom: 49px;
+    align-items: center;
+    margin-left: 2px;
+    margin-left: 100px;
+    margin-right: 1px;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+}
+#insta{
+    position: absolute;
+    bottom: 49px;
+    align-items: center;
+    margin-left: 2px;
+    margin-left: 130px;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+    
+}
+#linkd{
+    position: absolute;
+    bottom: 49px;
+    align-items: center;
+    margin-left: 2px;
+    margin-left: 170px;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+}
+#youb{
+    position: absolute;
+    bottom: 49px;
+    align-items: center;
+    margin-left: 2px;
+    margin-left: 210px;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+}
+/*
+Section-2 end
+*/
+
+
+/*
+Section-3
+*/
+
+.my-ser-th{
+    color: white;
+}
+.heading-ad{
+    color: white;
+}
+.section3-cen{
+    margin-left: 22%;
+    margin-top: 1px;
+
+}
+.para-th{
+    color:darkgrey;
+}
+.head-para{
+    color: darkkhaki;
+}
+
+.table-icon{
+    color: darkkhaki;
+    
+}
+
+/*
+Section-3 end
+*/
+
+
+
+
